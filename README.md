@@ -24,7 +24,7 @@ Installation:
 
 Usage: 
 1. Run the main.py script to train the model 
-2. Pass a course title to the get_recommendations() function to receive a list of recommended courses based on the model 
+2. Pass a course title to the  function to receive a list of recommended courses based on the model 
 
 
 To find out more about the project, please refer to the README file included in this repository.
